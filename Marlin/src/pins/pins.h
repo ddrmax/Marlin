@@ -843,6 +843,7 @@
   #include "stm32f4/pins_XTLW_CLIMBER_8TH.h"        // STM32F4                              env:XTLW_CLIMBER_8TH
 #elif MB(QIDI_XSERIES_V46)
   #include "stm32f4/pins_QIDI_XSERIES_V46.h"        // STM32F4                              env:QIDI_XSERIES_V46 env:QIDI_XSERIES_V46_usb_flash_drive
+  
 //
 // Other ARM Cortex-M4
 //

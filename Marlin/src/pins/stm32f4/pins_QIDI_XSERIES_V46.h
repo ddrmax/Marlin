@@ -43,8 +43,6 @@
 // Servos
 //
 //#define SERVO0_PIN                          //PB0   // XS2-5
-//#define SERVO1_PIN                          //PF7   // XS1-5
-//#define SERVO2_PIN                          //PF8   // XS1-6
 
 //
 // Limit Switches
